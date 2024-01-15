@@ -1,0 +1,6 @@
+*.pt
+*.pth
+*.pyc
+.idea/*
+*.pkl
+*.ipynb_*
