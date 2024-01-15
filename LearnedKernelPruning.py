@@ -187,7 +187,7 @@ save_dir = "models" #directory to save models to
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-from LearnedKernelsInference import test_suite
+from KernelLernelTestModel import *
 
 # Initiate lists to store results
 pre_prunes = []  # DICE scores before pruning
